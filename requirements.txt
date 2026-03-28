@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-openai
+langgraph-supervisor
+python-dotenv
+openai
